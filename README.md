@@ -15,7 +15,7 @@ The ETL pipeline follows these steps:
    - Removes invalid emails (without `@`)  
    - Fills missing salary with average salary  
    - Converts department names to uppercase  
-3. **Load** → Inserts the transformed data into a **SQLite database** (`employee_db.sqlite`).
+3. **Load** → Inserts the transformed data into a **MySQL database** (`Employee.sql`).
 
 ---
 
