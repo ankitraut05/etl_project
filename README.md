@@ -1,4 +1,4 @@
-# 🚀 ETL Pipeline Project (Python + SQLite)
+# 🚀 ETL Pipeline Project (Python + MySQL)
 
 This project demonstrates a simple **ETL (Extract, Transform, Load) pipeline** built using Python, Pandas, and MySQL.  
 It is designed to showcase **Data Engineering skills** such as data extraction, transformation, and loading into a relational database.
